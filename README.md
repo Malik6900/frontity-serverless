@@ -1,0 +1,2 @@
+# frontity-serverless
+Static
